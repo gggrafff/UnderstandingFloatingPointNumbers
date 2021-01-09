@@ -22,6 +22,7 @@
 [Число с плавающей запятой](https://ru.wikipedia.org/wiki/Число_с_плавающей_запятой)  
 [Число одинарной точности](https://ru.wikipedia.org/wiki/Число_одинарной_точности)  
 [Число двойной точности](https://ru.wikipedia.org/wiki/Число_двойной_точности)  
+[Exponent bias](https://en.wikipedia.org/wiki/Exponent_bias)
 
 
 
